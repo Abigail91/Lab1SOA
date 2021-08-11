@@ -1,0 +1,17 @@
+C:\Users\abiga\OneDrive\Escritorio\APIReact\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\abiga\OneDrive\Escritorio\APIReact\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\abiga\OneDrive\Escritorio\APIReact\bin\Debug\netcoreapp2.1\APIReact.deps.json
+C:\Users\abiga\OneDrive\Escritorio\APIReact\bin\Debug\netcoreapp2.1\APIReact.runtimeconfig.json
+C:\Users\abiga\OneDrive\Escritorio\APIReact\bin\Debug\netcoreapp2.1\APIReact.runtimeconfig.dev.json
+C:\Users\abiga\OneDrive\Escritorio\APIReact\bin\Debug\netcoreapp2.1\APIReact.dll
+C:\Users\abiga\OneDrive\Escritorio\APIReact\bin\Debug\netcoreapp2.1\APIReact.pdb
+C:\Users\abiga\OneDrive\Escritorio\APIReact\obj\Debug\netcoreapp2.1\APIReact.csproj.AssemblyReference.cache
+C:\Users\abiga\OneDrive\Escritorio\APIReact\obj\Debug\netcoreapp2.1\APIReact.AssemblyInfoInputs.cache
+C:\Users\abiga\OneDrive\Escritorio\APIReact\obj\Debug\netcoreapp2.1\APIReact.AssemblyInfo.cs
+C:\Users\abiga\OneDrive\Escritorio\APIReact\obj\Debug\netcoreapp2.1\APIReact.csproj.CoreCompileInputs.cache
+C:\Users\abiga\OneDrive\Escritorio\APIReact\obj\Debug\netcoreapp2.1\APIReact.RazorAssemblyInfo.cache
+C:\Users\abiga\OneDrive\Escritorio\APIReact\obj\Debug\netcoreapp2.1\APIReact.RazorAssemblyInfo.cs
+C:\Users\abiga\OneDrive\Escritorio\APIReact\obj\Debug\netcoreapp2.1\APIReact.RazorTargetAssemblyInfo.cache
+C:\Users\abiga\OneDrive\Escritorio\APIReact\obj\Debug\netcoreapp2.1\APIReact.dll
+C:\Users\abiga\OneDrive\Escritorio\APIReact\obj\Debug\netcoreapp2.1\APIReact.pdb
+C:\Users\abiga\OneDrive\Escritorio\APIReact\obj\Debug\netcoreapp2.1\APIReact.genruntimeconfig.cache
